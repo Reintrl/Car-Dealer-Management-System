@@ -2,6 +2,8 @@
 
 Modern dealership management with Spring Boot & React.
 
+[SRS of program](/docs/SRS.md)
+
 ## ✨ Features
 - **Car Management** - Full CRUD with VIN validation
 - **Dealer System** - Multi-dealer support  
